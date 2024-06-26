@@ -399,3 +399,8 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     vendor.lge.hardware.biometrics.fingerprint@2.1
+
+PRODUCT_PACKAGES += \
+    bdwlan_bdwlan_symlink \
+    bdwlan_ch0_bdwlan_ch0_symlink \
+    bdwlan_ch1_bdwlan_ch1_symlink
