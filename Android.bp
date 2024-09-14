@@ -9,7 +9,7 @@ soong_namespace {
 }
 
 prebuilt_etc_xml {
-	name: "vendor.lge.hardware.biometrics.fingerprint@2.1",
+	name: "vendor.lge.hardware.biometrics.fingerprint@2.1.xml",
 	owner: "lge",
 	src: "proprietary/vendor/etc/vintf/manifest/vendor.lge.hardware.biometrics.fingerprint@2.1.xml",
 	filename_from_src: true,
